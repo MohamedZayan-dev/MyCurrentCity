@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">MyCurrentCity</string>
+
+    <!-- Tabs -->
+    <string name="firstTab">Restaurants</string>
+    <string name="secondTab">Malls</string>
+    <string name="thirdTab">Historical</string>
+    <string name="fourthTab">Others</string>
+    <!-- Restaurant name -->
+    <string name="firstReName">fatfish</string>
+    <string name="secondReName">Tosca</string>
+    <string name="thirdReName">Wadi Hana Elarabi</string>
+    <string name="fourthReName">Cafe BLD</string>
+    <string name="fifthReName">Chez Papa</string>
+    <string name="sixthReName">Spice Gril</string>
+    <string name="sevenReName">Makan Kitchen</string>
+
+    <!-- Restaurant info -->
+    <string name="firstReInfo"> Sea food
+Certificate of Excellence2019 Winner.
+At Fatfish you make a number of choices to customize your own meal.</string>
+    <string name="secondReInfo">Hilton restaurant: elegant place with excellent Italian cuisine. Possibility of a daily menu at a great price.</string>
+    <string name="thirdReInfo">This Egyptian style restaurant served all the top Arabian dishes that you can think of. Among those would be Makhlouba and Mandi rice...simply stunning.</string>
+    <string name="fourthReInfo">Certificate of Excellence2016 - 2019 Winner
+This all-day dining restaurant\'s casual and creative menu serves up international cuisine with a local touch, open for breakfast, lunch and dinner in Johor Bahru</string>
+    <string name="fifthReInfo">Certificate of Excellence2015 - 2019 Winner
+Established in 1999. Traditional French Regional Cuisine. Cheerful and comfortable Bistro decor. Considered Fine Dinning by some customers.</string>
+    <string name="sixthReInfo">Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options
+There is nice nan bread and there is a wide variety of different Indian foods as well as a fusion menu for people who dont have to have Indian.</string>
+    <string name="seventhReInfo">Certificate of Excellence2016 - 2019 Winner
+An eclectic mix of famous local cuisine prepared in a live, interactive kitchen, showcasing the diversity of many native favorites from all over the country.</string>
+
+    <!-- Restaurant speciality -->
+    <string name="firstReSpeciality">Chinese, Asian</string>
+    <string name="secondReSpeciality">Italian, Pizza, European, Vegetarian Friendly </string>
+    <string name="thirdReSpeciality">Mediterranean, Barbecue, Middle Eastern, Egyptian, Arabic</string>
+    <string name="fourthReSpecialty">Local cuisine, Asian, Malaysian, International, Halal, Vegetarian Friendly</string>
+    <string name="fifthReSpeciality">French, European, Wine Bar, Vegetarian Friendly, Vegan Options</string>
+    <string name="sixthReSpeciality">Local cuisine, Indian, Vegetarian Friendly, Vegan Options, Halal</string>
+    <string name="seventhReSpeciality">Asian, Malaysian, Indian</string>
+
+    <!-- Restaurant address -->
+    <string name="firstReAddress">97 Jalan Beringin, Taman Melodies, Johor Bahru 80250 Malaysia
++60 7-330 9420</string>
+    <string name="secondReAddress">12 Jalan Ngee Heng, Johor Bahru 80000 Malaysia
++60 7-268 6970</string>
+    <string name="thirdReAddress">No 1 Jalan Pembangunan Taman Desa Rahmat, Johor Bahru 81200 Malaysia
++60 17-737 7352</string>
+    <string name="fourthReAddress">No. 2 Jalan Permas 11 Bandar Baru Permas Jaya, Johor Bahru 81750 Malaysia
+6073813322</string>
+    <string name="fifthReAddress">38 &amp; 40 Jalan Jaya Taman Maju Jaya, Johor Bahru 80400 Malaysia
++60 6073334988</string>
+    <string name="sixthReAddress">Lot 1B 4b, Ground Floor of Little Red Cube Club, Johor Bahru 81300 Malaysia
++60 7-509 6644</string>
+    <string name="seventhReAddress">12 Jalan Ngee Heng, Johor Bahru 80000 Malaysia
++60 7-268 6868</string>
+
+
+    <!-- Mall name -->
+    <string name="firstMallName">Midvalley Southkey</string>
+    <string name="secondMallName">R&amp;F</string>
+    <string name="thirdMallName">Johor Premium Outlets</string>
+    <string name="fourthMallName">Paradigm</string>
+    <string name="fifthMallName">Angsana</string>
+
+    <!-- Mall Info -->
+    <string name="firstMallInfo">Located five minutes from Woodlands, The Mall, Midvalley Southkey features hundreds of stores, including familiar names like SOGO, Michael Kors and Coach.  Of course, there are also plenty of F&amp;B options, from popular Malaysian brands like Lavender and HoMinSan, to family favourites such as Kenny Rogers.</string>
+    <string name="secondMallInfo">There are many firsts-in-JB brands at R&amp;F Mall, including Emperor Cinemas from Hong Kong, Oregin bubble tea from Taiwan and Kynchon fried chicken from Korea.</string>
+    <string name="thirdMallInfo"> As its name suggests, you will have a hard time choosing what to buy from a wide range of global brands such as Akemi Uchi, Adidas, Beauty Scents, Poney Outlet, Swatch, Vincci, Sembonia and others.</string>
+    <string name="fourthMallInfo">Paradigm Mall is Johor Bahru’s LARGEST shopping centre! Paradigm Mall JB spans more than 2 million square feet and features the largest movie theatre in the state operated by Golden Screen Cinemas. With seven floors and over 500 outlets offering the best entertainment, fashion and delicacies; no matter what you’re looking for, you’re sure to find it.</string>
+    <string name="fifthMallInfo">Angsana Johor Bahru Mall is one of the most popular shopping hubs in the state of Johor. With more than 238 retail outlets with local and international brands and a wide range of goods to choose from, you can shop ‘til you drop.</string>
+
+    <!-- Mall speciality -->
+    <string name="firstMallSpeciality">Opening hours: Monday to Sunday (10am to 10pm)</string>
+    <string name="secondMallSpeciality"> Monday to Sunday (10am to 10pm)</string>
+    <string name="thirdMallSpeciality">Monday to Sunday (10am to 10pm)</string>
+    <string name="fourthMallSpeciality">Monday to Sunday (10am to 10pm)</string>
+    <string name="fifthMallSpeciality">Monday to Sunday (10am to 10pm)</string>
+
+    <!-- Mall address -->
+    <string name="firstMallAddress"> Jalan Bakar Batu, Southkey, 81100 Johor Bahru, Johor</string>
+    <string name="secondMallAddress">L2-086-A5, Mercu 1, Jalan Tanjung Puteri, 80300 Johor Bahru, Malaysia</string>
+    <string name="thirdMallAddress"> Jalan Premium Outlets Indahpura, 81000 Kulai, Johor, Malaysia</string>
+    <string name="fourthMallAddress"> Paradigm Mall Johor Bahru, Jalan Skudai, 81200 Johor Bahru, Johor, Malaysia</string>
+    <string name="fifthMallAddress">Level 3, Angsana JB Mall, Jalan Tampoi, 81200 Johor Bahru, Johor, Malaysia</string>
+
+
+    <!-- Historical Names -->
+    <string name="firstHistName">Tiong Hua Chinese Heritage Museum</string>
+    <string name="secondHistName">The Red House Johor Bahru</string>
+    <string name="thirdHistName">Sri Raja Mariamman Temple Johor Bahru</string>
+    <string name="fourthHistName">Johor Bahru Old Chinese Temple</string>
+    <string name="fifthHistName">Masjid India Johor Bahru @ India Muslim Mosque</string>
+
+    <!-- Historical Info -->
+    <string name="firstHistInfo">The first, second and third floors display the lives of Chinese immigrants in Johor in 17th century while the fourth floor devotes to Dr. Sun Yat Sen, the founder and the first president of the Republic of China.</string>
+    <string name="secondHistInfo">Later while the street was nominated as a heritage street, the facade was repainted in bright red and white and served as a prominent heritage building along the street.
+        Due to the eye-catching furnishing, it eventually turned into the landmark of the area and hosted many cultural events.</string>
+    <string name="thirdHistInfo">The Hindu temple pays homage to the goddess Mariamman, the deity of fertility and rain and she was believed to cure disease and illness of her believers.</string>
+    <string name="fourthHistInfo">The temple holds an annual event, Chingay (Parade of Deities) that lasts for 4 days. Parading with the deities around the Town Centre of JB on the third night is the climax and highlight of this parade. The event has successfully attracted over 300k people in the past few years.</string>
+    <string name="fifthHistInfo">Featuring a silver and blue dome with 2 minarets aside, the mosque comes with white walls with blue-tinted glass, offering a modern ambiance and convenient.
+Up until now, the history of the mosque is still a mystery. We only found out that the mosque was constructed by the local Indian Muslims. Or maybe you can ask the Indian Muslims around for more information.</string>
+
+    <!-- Historical Speciality -->
+    <string name="firstHistSpec">Tuesday to Sunday: 9:00am – 5:00pm</string>
+    <string name="secondHistSpec">Tuesday to Sunday: 9:00am – 5:00pm
+                Entrance fee: RM6 per adult &amp; RM3 per child</string>
+    <string name="thirdHistSpec">Daily: 6:00am – 5:00pm
+    Entrance Fee: Free</string>
+    <string name="fourthHistSpec">Daily: 7:00am – 5:00pm
+    Entrance Fee: Free</string>
+
+
+    <!-- Historical Address -->
+    <string name="firstHistAddress">42, Jalan Ibrahim, Johor Bahru, Johor, Malaysia.</string>
+    <string name="secondHistAddress">Email: heritage_museumjb@jb-tionghua.org.my</string>
+    <string name="thirdHistAddress">No.56, Jalan Tan Hiok Nee, Johor Bahru, Johor, Malaysia.
+     +607 – 224 9633</string>
+    <string name="fourthHistAddress">Between Jalan Trus &amp; Jalan Ungku Puan, 8000 Johor Bahru, Johor, Malaysia</string>
+    <string name="fifthHistAddress">Jalan Duke, 80000 Johor Bahru, Johor, Malaysia</string>
+
+    <!-- Others names -->
+    <string name="firstOtherName">Puteri Fall (Gunung Ledang)</string>
+    <string name="secondOtherName">Melor</string>
+    <string name="thirdOtherName">m tinggi fall</string>
+    <string name="fourthOtherName">gunung ledang</string>
+    <string name="fifthOtherName">gunung arong</string>
+
+    <!-- Others info -->
+    <string name="firstOtherInfo">The Puteri Fall itself is more a cascade, about 60 meter tall. As the cascade is curved, it is not really possible to get a complete view of it. At the top of the cascade there is another small fall, with a nice swimming pool. The cemented walkway ends here, and the real climbing of the mountains starts.</string>
+    <string name="secondOtherInfo">The stream of Taka Melor waterfall has one attractive, single fall , and a pool that is really inviting for a swim. It is possible to climb to the top of the fall, but be careful, the rocks can be slippery. It is very serene, pristine and quiet on top.</string>
+    <string name="thirdOtherInfo">Along the route there are five checkpoints and Jeram Tinggi Fall is the first checkpoint. Jementah is located at the north east side of Gunung Ledang. Here is another less famous Gunung Ledang summit trail – Ulu Jementah trail. It takes the longest time and is the toughest trail to the summit.</string>
+    <string name="fourthOtherInfo">This is perhaps one of the most trekked mountains in Peninsular Malaysia. Gunung Ledang, which is also commonly known as Mount Ophir, can be accessed via two routes.\n" +
+                "\n" +
+                "The Sagil Path is the most commonly used path and is much longer than the Asahan route. The Asahan route is less known because it is less accessible as compared Sagil. A few trekkers have used the route up the Ophir Mountain.</string>
+    <string name="fifthOtherInfo">Gunung Arong Recreational Forest is a forest reserve located in the Mersing District in Johor.\n" +
+                "\n" +
+                "A stream runs through the entire length and breadth of the forest.\n" +
+                "\n" +
+                "The stream offers maximum enjoyment to many hikers and adventure seekers, whose cooling and refreshing effects are an unforgettable experience.</string>
+
+    <!-- Just the second one has address -->
+    <string name="secondOtherAddress">Taka Melor is located in Kampung Tenang,near the town of Labis in Segamat,Johor.To get here,follow the route N-S Highway</string>
+
+</resources>
+
